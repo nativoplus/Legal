@@ -4,18 +4,18 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 PERSONAL INFORMATION WE COLLECT
 
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.” We also collect all information about your interactions with our applications. We utilized this information for machine learning, artificial intelligence and others analytical and mathematical analysis. 
 
 We collect Device Information using the following technologies:
 
     - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
     - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
     - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
-    [[INSERT DESCRIPTIONS OF OTHER TYPES OF TRACKING TECHNOLOGIES USED]]
+  
 
-Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers [[INSERT ANY OTHER PAYMENT TYPES ACCEPTED]]), email address, and phone number.  We refer to this information as “Order Information.”
+Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, stripe account information, paypal or any other money movement provider), email address, and phone number.  We refer to this information as “Order Information.”
 
-[[INSERT ANY OTHER INFORMATION YOU COLLECT:  OFFLINE DATA, PURCHASED MARKETING DATA/LISTS]]
+
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
 
@@ -24,10 +24,10 @@ HOW DO WE USE YOUR PERSONAL INFORMATION?
 We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations).  Additionally, we use this Order Information to:
 Communicate with you;
 Screen our orders for potential risk or fraud; and
-When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
-[[INSERT OTHER USES OF ORDER INFORMATION]]
+When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services. We will utilize the information that you enter in the application to understand how to help your particular needs. By using our applications and granting access to people you invite in your network you are essentially allowing us to share your data with those parties. 
+
 We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
-[[INSERT OTHER USES OF DEVICE INFORMATION, INCLUDING:  ADVERTISING/RETARGETING]]
+
 
 SHARING YOUR PERSONAL INFORMATION
 
@@ -62,9 +62,9 @@ Additionally, if you are a European resident we note that we are processing your
 DATA RETENTION
 When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
-[[INSERT IF AGE RESTRICTION IS REQUIRED]]
+
 MINORS
-The Site is not intended for individuals under the age of [[INSERT AGE]].
+The Site is information about medications and health. Minors should consult their legal guardians before accesing any material that may be deemed offensive. 
 
 CHANGES
 We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
