@@ -1,0 +1,17 @@
+Data Deletion Policy for GentleBirth
+
+Purpose: The purpose of this policy is to outline the procedures for the deletion of personal data collected by GentleBirth.
+
+Scope: This policy applies to all personal data collected by GentleBirth, including but not limited to, personal information, medical information, and any other sensitive information collected during the course of providing services to patients and clients.
+
+Data Retention: Personal data will be retained for a period of 7 years after the last date of service provided, unless otherwise required by law. After this period, the data will be deleted.
+
+Data Deletion: All personal data will be securely deleted using industry standard methods to ensure that it cannot be recovered or accessed by unauthorized parties.
+
+Exceptions: In certain cases, personal data may need to be retained for a longer period of time, such as in the event of a legal dispute or to comply with regulatory requirements. In these cases, the data will be retained until it is no longer needed for these purposes.
+
+Access and Correction: Patients and clients have the right to access and correct their personal data. If a patient or client requests that their personal data be deleted before the end of the retention period, GentleBirth will comply with their request.
+
+Compliance: GentleBirth will comply with all applicable laws and regulations regarding data deletion and will regularly review and update this policy as necessary.
+
+Breaches: In the event of a data breach, GentleBirth will notify affected individuals and take necessary steps to secure and delete any compromised data.
